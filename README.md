@@ -1,13 +1,13 @@
 
 ## Global install
 ```
-$ npm install -g https://github.com/Chocolatl/ehentai-downloader.git
+$ npm install -g https://github.com/NoctisHsu/ehentai-downloader.git
 ```
 
 or
 
 ```
-$ git clone https://github.com/Chocolatl/ehentai-downloader.git
+$ git clone https://github.com/NoctisHsu/ehentai-downloader.git
 $ npm install -g ehentai-downloader
 ```
 
@@ -40,7 +40,7 @@ $ eget <url> <path> <range>
 ```
 ### set config
 
-[config.yml](https://github.com/Chocolatl/ehentai-downloader/blob/master/config.yml)
+[config.yml](https://github.com/NoctisHsu/ehentai-downloader/blob/master/config.yml)
 `eget --config`
 
 ```
